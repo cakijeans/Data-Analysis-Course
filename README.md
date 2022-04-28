@@ -1,4 +1,4 @@
 # Data-Analysis-Course
-20220428 by Thejasvi
+20220428 taught by Thejasvi
 
-github course
+github course practice codes
